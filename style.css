@@ -1,0 +1,38 @@
+
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+#Portfolio {
+  background-color: #e2edff;
+}
+footer {
+  background-color: #176baf;
+}
+section {
+  padding-top: 5rem;
+}
+.btn {
+  background-color: #fff;
+  color: #212121;
+}
+
+
+  .nav-item {
+    background-color: transition; /* Initial background color */
+    color: #333; /* Initial text color */
+    padding: 10px;
+    border: none;
+  }
+
+  .nav-item:hover {
+    background-color: black; /* Change background color to white on hover */
+    color: #000; /* Change text color to black on hover */
+  }
+
+  .nav-item {
+    transition: 0.5 ease-in-out; 
+    transition-delay: .3s;
+    border-radius: 8px;
+  }
